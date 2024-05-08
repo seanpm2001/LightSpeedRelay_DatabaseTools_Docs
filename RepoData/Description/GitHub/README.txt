@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+☄️🛰️🛢️🛠️📖️ The official documentation source repository for the Lightspeed Relay Technologies database tools component, letting you convert your isDNS database into a different format, along with other tools for the iDNS database system in the Light Speed Relay system.
